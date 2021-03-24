@@ -1,6 +1,2 @@
-# temp_SDLAB_project
+# Twitter Sentiment Analysis and EDA on [US-ELECTION-2020](https://www.kaggle.com/manchunhui/us-election-2020-tweets) Dataset
 
-This Repo is just a Temporary repo for our project which will be submitted 
-as part of assignment 5 in Sd lab. 
-Will be deleted after post submission and files will be merged in my 
-SD lab repo
