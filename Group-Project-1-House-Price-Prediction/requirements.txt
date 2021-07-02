@@ -1,0 +1,9 @@
+pycaret
+asyncio
+motor
+numpy
+pandas
+matplotlib
+folium
+seaborn
+scikit-learn
